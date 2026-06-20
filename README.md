@@ -29,17 +29,6 @@ I study offensive techniques and attacker tradecraft to defend more effectively.
 | Custom tooling                    | Purpose-built Python scripts for exploit automation (see HTB-Facts)                               |
 | Reporting                         | Client-style pentest reports with CVSS scoring, risk ratings, business impact, and remediation    |
 
----
-## Completed Machines
-
-### Hack The Box (retired machines only)
-
-| Machine               | Difficulty | OS    | Key Techniques                                                     | Write-up               |
-| --------------------- | ---------- | ----- | ------------------------------------------------------------------ | ---------------------- |
-| [Cap](./HTB-Cap/)     | Easy       | Linux | IDOR, PCAP analysis, Linux capabilities                            | [Report](./HTB-Cap/)   |
-| [Facts](./HTB-Facts/) | Easy       | Linux | Mass assignment, CVE-2024-46987, S3 enumeration, facter sudo abuse | [Report](./HTB-Facts/) |
-
-Other Machines have been completed and are awaiting publishing however due to TryHackMe and Hack The Box rules and TOS rooms that are currently active or non-retired cannot be published.
 <!--
   Add rows here as machines retire and their write-ups are transferred from the
   private repo. Do not list active or seasonal machines.
