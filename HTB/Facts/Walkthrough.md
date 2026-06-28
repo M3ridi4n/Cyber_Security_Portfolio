@@ -85,7 +85,7 @@ This returned one applicable exploit: CVE-2024-46987, an authenticated path trav
 
 **Screenshot:** Figure 3
 
-![Figure 3:](./images/09-searchsploit.png)
+![Figure 3:](./images/09-Searchsploit.png)
 
 ---
 
