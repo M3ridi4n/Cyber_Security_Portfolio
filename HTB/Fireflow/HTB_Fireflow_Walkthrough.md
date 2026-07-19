@@ -9,7 +9,7 @@
 | Difficulty | Medium |
 | OS | Linux (Ubuntu 24, kernel 6.8), single-node k3s Kubernetes cluster |
 | IP | 10.129.X.X |
-| Status | Unconfirmed at time of writing; treat as active until verified retired |
+| Status | Retired |
 | CVEs exploited | CVE-2026-33017 (Langflow unauthenticated RCE) |
 
 ---
