@@ -11,7 +11,7 @@
 | Date | 2026-07-18 |
 | Classification | Confidential / Training Documentation |
 | Distribution | Private notes only |
-| Publication status | UNCONFIRMED, treat as ACTIVE. DO NOT PUBLISH until retirement is verified on hackthebox.com/machines. |
+| Publication status | Retired. |
 | Redaction policy | Flags withheld. Credentials, JWTs, service-account tokens, flow IDs, attacker VPN address, and payload contents redacted in body. |
 
 ### Version history
