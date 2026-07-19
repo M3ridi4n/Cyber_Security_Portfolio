@@ -11,7 +11,7 @@
 | Date | 2026-07-18 |
 | Classification | Confidential / Training Documentation |
 | Distribution | Private notes only |
-| Publication status | Retired. |
+| Publication status | RETIRED, cleared for portfolio |
 | Redaction policy | Flags withheld. Credentials, JWTs, service-account tokens, flow IDs, attacker VPN address, and payload contents redacted in body. |
 
 ### Version history
