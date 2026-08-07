@@ -59,9 +59,7 @@ Every assessment follows a structured approach:
 ## Currently Working Towards
 
 - CREST CPSA exam preparation.
-- TryHackMe SOC Analyst / blue team pathway.
 - Expanding into Medium-difficulty and Windows / Active Directory machines.
-- Building SOC and detection-engineering skills (LetsDefend, Blue Team Labs Online).
 - Anthropic AI Academy for AI fluency and greater efficiency with AI augmented workflows.
 
 ---
