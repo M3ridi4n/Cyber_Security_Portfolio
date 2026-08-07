@@ -1,13 +1,11 @@
 # David Lumsden: Cyber Security Portfolio
 
-Former British Army veteran (REME) building a career in cyber security, with a focus on SOC analyst and blue team roles. CompTIA Security+ certified, CREST CPSA in progress.
+Former British Army veteran (REME) building a career in cyber security. CompTIA Security+ certified, CREST CPSA in progress.
 
 ---
 ## About Me
 
 I served in the Royal Electrical and Mechanical Engineers as a vehicle mechanic, where every fault followed the same process: observe the symptoms, form a hypothesis, test it, confirm the root cause, fix it, and document what you found. That diagnostic discipline is the foundation of everything in this portfolio.
-
-I study offensive techniques and attacker tradecraft to defend more effectively. Every machine I break teaches me what a SOC needs to detect and how an attacker actually moves. The write-ups in this repository document that process: not just what I exploited, but how I would detect it and how I would fix it. Red team skills in service of a blue team career.
 
 ---
 ## Certifications
