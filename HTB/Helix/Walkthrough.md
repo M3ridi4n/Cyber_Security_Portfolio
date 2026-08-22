@@ -38,7 +38,7 @@ nmap -sC -sV -p22,80 -oN scans/nmap-tcp.txt 10.129.XX.XX
 
 **Screenshot:** Figure 1
 
-![](Helix/images/03-Nmap_Scan.png)
+![](/HTB/Helix/images/03-Nmap_Scan.png)
 
 ---
 
@@ -59,7 +59,7 @@ echo "10.129.XX.XX helix.htb" | sudo tee -a /etc/hosts
 
 **Screenshot:** Figure 2
 
-![](Helix/images/05-FUFF_Scan.png)
+![](/HTB/Helix/images/05-FUFF_Scan.png)
 
 ---
 
@@ -102,7 +102,7 @@ Loaded `http://flow.helix.htb/nifi/` in the browser. Apache NiFi canvas loaded w
 
 **Screenshot:** Figure 4
 
-![](Helix/images/09-CVE_Library.png)
+![](/HTB/Helix/images/09-CVE_Library.png)
 
 ---
 
@@ -166,7 +166,7 @@ nifi
 
 **Screenshot:** Figure 5
 
-![](Helix/images/11-Initial_foot_hold.png)
+![](/HTB/Helix/images/11-Initial_foot_hold.png)
 
 ---
 
@@ -192,7 +192,7 @@ An OpenSSH ed25519 private key backup, named after the `operator` user, sitting 
 
 **Screenshot:** Figure 6
 
-![](Helix/images/12-SSH_Key.png)
+![](/HTB/Helix/images/12-SSH_Key.png)
 
 ---
 
@@ -212,7 +212,7 @@ ssh -i operator_id_ed25519 operator@helix.htb
 
 **Screenshot:** Figure 7
 
-![](Helix/images/13-User_foot_hold.png)
+![](/HTB/Helix/images/13-User_foot_hold.png)
 
 ---
 
@@ -260,7 +260,7 @@ Documentation artefacts in `~operator`:
 
 **Screenshot:** Figure 8
 
-![](Helix/images/16-Target_open_ports.png)
+![](/HTB/Helix/images/16-Target_open_ports.png)
 
 ---
 
@@ -280,7 +280,7 @@ john --wordlist=/usr/share/wordlists/rockyou.txt --format=PDF pdf.hash
 
 **Screenshot:** Figure 9
 
-![](Helix/images/23-John2PDF_Crack.png)
+![](/HTB/Helix/images/23-John2PDF_Crack.png)
 
 ---
 
@@ -349,11 +349,11 @@ Read-only nodes:
 
 **Screenshot:** Figure 10
 
-![](Helix/images/24-Helix_PDF_Page1.png)
+![](/HTB/Helix/images/24-Helix_PDF_Page1.png)
 
-![](Helix/images/25-Helix_PDF_Page2.png)
+![](/HTB/Helix/images/25-Helix_PDF_Page2.png)
 
-![](Helix/images/26-Helix_PDF_Page3.png)
+![](/HTB/Helix/images/26-Helix_PDF_Page3.png)
 
 ---
 
@@ -435,7 +435,7 @@ Execution across two SSH sessions:
 
 **Screenshot:** Figure 11
 
-![](28-Opcua_exploit_py.png)
+![](/HTB/Helix/images/28-Opcua_exploit_py.png)
 
 ---
 
@@ -456,7 +456,7 @@ cat /root/root.txt
 
 **Screenshot:** Figure 12
 
-![](Helix/images/29-Root_Access.png)
+![](/HTB/Helix/images/29-Root_Access.png)
 
 ---
 
