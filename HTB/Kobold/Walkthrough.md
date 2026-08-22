@@ -41,7 +41,7 @@ nmap -sV -sC -p- $IP -oN HTB_Kobold_Initial_Scan
 
 **Screenshot:** Figure 1
 
-![](02-Nmap_Initial_Scan.png)
+![](/HTB/Kobold/images/02-Nmap_Initial_Scan.png)
 
 ---
 
@@ -84,9 +84,9 @@ Added `mcp.kobold.htb` to `/etc/hosts`.
 
 **Screenshot:** Figures 2 and 3
 
-![](Kobold/images/05-ffuf_Scan.png)
+![](/HTB/Kobold/images/05-ffuf_Scan.png)
 
-![](Kobold/images/06-MCPJam.png)
+![](/HTB/Kobold/images/06-MCPJam.png)
 
 ---
 
@@ -140,7 +140,7 @@ python3 -c 'import pty; pty.spawn("/bin/bash")'
 
 **Screenshot:** Figure 4
 
-![](Kobold/images/07-CVE_2026_23520.png)
+![](/HTB/Kobold/images/07-CVE_2026_23520.png)
 
 ---
 
@@ -205,7 +205,7 @@ sg docker -c "docker run -u root -v /:/hostfs --rm --entrypoint cat privatebin/n
 
 **Screenshot:** Figure 5
 
-![](08-User_To_Root.png)
+![](/HTB/Kobold/images/08-User_To_Root.png)
 
 ---
 
