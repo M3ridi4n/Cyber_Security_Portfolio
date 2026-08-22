@@ -45,7 +45,7 @@ Directory enumeration with ffuf against the web root revealed the ZoneMinder app
 
 **Screenshot:** Figure 1
 
-![Figure1](CCTV/images/02-InitialScan.png)
+![Figure1](/HTB/CCTV/images/02-InitialScan.png)
 
 ---
 
@@ -70,7 +70,7 @@ Additionally, inspection of the client-side JavaScript disclosed embedded creden
 
 **Screenshot:** Figure 2
 
-![](CCTV/images/05-ZMInitialAccess.png)
+![](/HTB/CCTV/images/05-ZMInitialAccess.png)
 
 ---
 
@@ -87,7 +87,7 @@ A public PoC script targeting CVE-2024-51482 was used to enumerate the `Users` t
 
 **Screenshot:** Figure 3
 
-![](CCTV/images/08-CVE-2024-51482_ZM_User_Hashes.png)
+![](/HTB/CCTV/images/08-CVE-2024-51482_ZM_User_Hashes.png)
 
 ---
 
@@ -117,7 +117,7 @@ Shell as `mark`. User flag captured from `/home/mark/user.txt`.
 
 **Screenshot:** Figure 4
 
-![](CCTV/images/09-HashesCracked.png)
+![](/HTB/CCTV/images/09-HashesCracked.png)
 
 ---
 
@@ -201,7 +201,7 @@ Root flag captured from `/root/root.txt`.
 
 **Screenshot:** Figure 5
 
-![](CCTV/images/17-Root&UserFlag.png)
+![](/HTB/CCTV/images/17-Root&UserFlag.png)
 
 ---
 
