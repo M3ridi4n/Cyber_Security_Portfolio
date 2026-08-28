@@ -1,4 +1,4 @@
-# HTB CCTV — Walkthrough
+# HTB CCTV: Walkthrough
 
 ## Machine Info
 
