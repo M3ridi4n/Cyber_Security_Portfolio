@@ -1,4 +1,4 @@
-# HTB Fireflow — Walkthrough
+# HTB Fireflow: Walkthrough
 
 ## Machine Info
 
