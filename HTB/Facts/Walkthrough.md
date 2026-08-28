@@ -1,4 +1,4 @@
-# HTB Facts — Walkthrough
+# HTB Facts: Walkthrough
 
 ## Machine Info
 
