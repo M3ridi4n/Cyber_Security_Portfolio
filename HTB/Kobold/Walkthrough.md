@@ -1,4 +1,4 @@
-# HTB Kobold — Walkthrough
+# HTB Kobold: Walkthrough
 
 ## Machine Info
 
