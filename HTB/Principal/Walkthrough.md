@@ -42,7 +42,7 @@ rustscan -a 10.129.XX.XX --ulimit 5000 -- -sC -sV -oN rustscan.txt
 
 **Screenshot:** Figure 1
 
-![](Principal/images/03-Rust_Scan.png)
+![](images/03-Rust_Scan.png)
 
 ---
 
