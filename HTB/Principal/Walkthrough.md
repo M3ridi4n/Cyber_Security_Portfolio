@@ -65,9 +65,9 @@ X-Powered-By: pac4j-jwt/6.0.3
 
 - `pac4j` is a well-known Java authentication framework. The `-jwt` module handles JWT and JWE. A quick CVE lookup on `pac4j-jwt 6.0.3` returned CVE-2026-29000, an authentication bypass involving unsigned JWTs inside JWE envelopes.
 
-**Screenshot:** Figure 1
+**Screenshot:** Figure 2
 
-![](Principal/images/05-Pac4j.png)
+![](images/05-Pac4j.png)
 
 ---
 
@@ -92,7 +92,7 @@ curl -s http://10.129.XX.XX:8080/static/js/app.js
 
 **Screenshot:** Figure 2
 
-![](Principal/images/06-CVE-2026-29000.png)
+![](images/06-CVE-2026-29000.png)
 
 ---
 
@@ -189,7 +189,7 @@ python3 exploit.py http://10.129.XX.XX:8080
 
 **Screenshot:** Figure 3
 
-![](Principal/images/13_Exploit_py.png)
+![](images/13_Exploit_py.png)
 
 ---
 
@@ -253,7 +253,7 @@ User flag retrieved from `~/user.txt`.
 
 **Screenshot:** Figure 5
 
-![](Principal/images/18-Nxc_ssh.png)
+![](images/18-Nxc_ssh.png)
 
 ---
 
@@ -360,7 +360,7 @@ ssh -i /tmp/pwn root@localhost
 
 **Screenshot:** Figure 6
 
-![](Principal/images/27-Ssh_to_root.png)
+![](images/27-Ssh_to_root.png)
 
 ---
 
