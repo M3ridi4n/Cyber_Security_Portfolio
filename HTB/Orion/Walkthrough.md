@@ -76,7 +76,7 @@ Results worth pulling out:
 
 **Screenshot:** Figure 2
 
-![Gobuster_Scan_Results](images/04-Gobuster_dir_scan.png)
+![Gobuster_Scan_Results](images/04-Gobuster_dir_Scan.png)
 
 ---
 
@@ -149,7 +149,7 @@ script /dev/null -c /bin/bash
 
 **Screenshot:** Figure 4
 
-![Www-data_foothold](images/08-Www-data_foothold.png)
+![Www-data_foothold](images/08-Www-data_Foothold.png)
 
 ---
 
@@ -182,7 +182,7 @@ The phpinfo leak from Step 4 had already spilled the full `$_SERVER` environment
 
 **Screenshot:** Figure 5
 
-![MariaDB_access](images/11-Sql_DB_access.png)
+![MariaDB_access](images/11-Sql_DB_Access.png)
 
 ---
 
@@ -246,7 +246,7 @@ Cracked plaintext: `<REDACTED>`.
 
 **Screenshot:** Figure 7
 
-![Hash_Cracked](images/16-Hash_show.png)
+![Hash_Cracked](images/16-Hash_Show.png)
 
 ---
 
@@ -326,9 +326,9 @@ USER="-f root" telnet -a 127.0.0.1
 
 **Screenshot:** Figure 10
 
-![Auth_bypass](images/20-Telnet_auth_bypass.png)
+![Auth_bypass](images/20-Telnet_auth_Bypass.png)
 
-![GG](images/21-Root_access.png)
+![GG](images/21-Root_Access.png)
 
 ---
 
